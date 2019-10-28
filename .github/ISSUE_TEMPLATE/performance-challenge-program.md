@@ -9,10 +9,11 @@ assignees: ''
 
 <!--
   For personal sign up, delete the following content.
-  For team sign up, please list your team members.
+  For team sign up, please give a team name and list your team members.
 -->
 
-## Members
+## Team Sign up
 
-- @sre-bot
-- @sre-bot
+- Name: PingCAP
+- Member: @sre-bot
+- Member: @sre-bot
