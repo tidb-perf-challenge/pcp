@@ -1,7 +1,7 @@
 ---
 name: "✈️ Performance Challenge Program"
 about: PCP Season1 Program
-title: 'PCP Signup'
+title: 'PCP/Sign Up'
 labels: ''
 assignees: ''
 
