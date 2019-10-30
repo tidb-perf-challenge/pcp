@@ -10,10 +10,11 @@ assignees: ''
 <!--
   For personal sign up, delete the following content.
   For team sign up, please give a team name and list your team members.
+  Up to three members in a team.
 -->
 
 ## Team Sign up
 
 - Name: PingCAP
-- Member: @sre-bot
-- Member: @sre-bot
+- Member: @sre-bot(sre-bot@pingcap.com)
+- Member: @sre-bot(sre-bot@pingcap.com)
