@@ -9,7 +9,7 @@ assignees: ''
 
 <!--
   For personal sign up, please introduce yourself briefly and leave your email address for future contact.
-  For team sign up, please introduce your team briefly, give a team name, list your team members and leave an email address for future contactgive a team name and list your team members.
+  For team sign up, please introduce your team briefly, give a team name, list your team members and leave an email address for future contact.
   Up to three members in a team.
 -->
 
