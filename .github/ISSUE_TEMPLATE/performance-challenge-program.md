@@ -13,6 +13,11 @@ assignees: ''
   Up to three members in a team.
 -->
 
+## Personal Sign up
+
+- Self-intoduction: A programmer/student with X years of Rust/Go experience,currently working/studying at XXX.
+- Email: sre-bot@pingcap.com
+
 ## Team Sign up
 
 - Name: PingCAP
